@@ -1,0 +1,9 @@
+
+{
+  "name": "lambda-handson-jawsug-okinawa-201608",
+  "description": "lambda-handson-jawsug-okinawa-201608",
+  "memory": 128,
+  "timeout": 5,
+  "role": "arn:aws:iam::あなたのAWSアカウントID:role/handson-app-role",
+  "environment": {}
+}
